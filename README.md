@@ -297,10 +297,10 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Geliştirici**: [Adınız]
-- **Email**: [email@example.com]
-- **LinkedIn**: [LinkedIn Profiliniz]
-- **GitHub**: [GitHub Profiliniz]
+- **Geliştirici**: [Kerim Ince]
+- **Email**: [incekerim49@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/kerim-ince/]
+- **GitHub**: [https://github.com/kerimincee]
 
 ---
 
@@ -317,6 +317,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
-Made with ❤️ by [Adınız]
+Made with ❤️ by [Kerim Ince]
 
 </div>
