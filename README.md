@@ -96,7 +96,7 @@ Mikro Sipariş Takip Sistemi, küçük ve orta ölçekli işletmeler için geli�
 
 1. **Projeyi klonlayın**
    ```bash
-   git clone https://github.com/kullaniciadi/siparis_sistemi.git
+   git clone (https://github.com/kerimincee/Mobil-Teklif-Uygulamasi)
    cd siparis_sistemi
    ```
 
