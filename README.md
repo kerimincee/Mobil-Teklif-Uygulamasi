@@ -1,4 +1,4 @@
-# 📱 Mikro Sipariş Takip Sistemi
+# 📱 Mikro Teklif Takip Sistemi
 
 <div align="center">
 
